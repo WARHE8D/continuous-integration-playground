@@ -10,4 +10,5 @@
 # owner(s) will be requested for a review.
 *.js    @js-owner #This is an inline comment.
 
-<!-- for more details visit: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners -->
+# for now @js-owner will give a warning: Unknown owner on line 11: make sure @js-owner exists and has write access to the repository
+# for more details visit: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
