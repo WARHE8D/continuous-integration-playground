@@ -1,4 +1,3 @@
-const secret = "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";
 
 function add(a, b) {
     return a + b;
