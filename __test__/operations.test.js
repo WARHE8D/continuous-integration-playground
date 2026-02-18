@@ -12,7 +12,7 @@ test('multiplies 2 * 3 to equal 6', () => {
 });
 
 test('subtracts 5 - 2 to equal 3', () => {
-    expect(operations.subtract(5, 2)).toBe(13);
+    expect(operations.subtract(5, 2)).toBe(3);
 });
 
 //in terminal run npm test to execute the tests.
