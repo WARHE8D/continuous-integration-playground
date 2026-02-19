@@ -1,7 +1,15 @@
 {
-  "name": "continuous-integration-playground",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "@WARHE8D/continuous-integration-playground",
+  "version": "1.1.0",
+  "main": "src/operations.js",
+  
+  "files": [
+    "/src"
+  ],
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/WARHE8D/continuous-integration-playground"
+  },
   "scripts": {
     "test": "jest --coverage" 
   },
